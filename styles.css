@@ -39,4 +39,8 @@ header {
 
 .menu .btn-menu {
     background-color: #bac42e;
+    display: inline-block;
+    padding: 4px 10px;
+    color: white;
+    border-radius: 8px;
 }
