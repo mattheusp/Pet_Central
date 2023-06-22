@@ -17,3 +17,15 @@ header {
     padding: 20px 0;
     border-bottom: 2px solid #dfeb3d;
 }
+
+.logo { 
+    color: #dfeb3d;
+}
+
+.menu a {
+    color: #bac42e;
+}
+
+.menu a:hover {
+    color: #efff0b
+}
