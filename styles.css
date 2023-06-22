@@ -15,7 +15,7 @@
 header {
     background-color: #ffffff;
     padding: 20px 0;
-    border-bottom: 2px solid #dfeb3d;
+    border-bottom: 1px solid rgb(200, 200, 200) ;
 }
 
 .logo { 
