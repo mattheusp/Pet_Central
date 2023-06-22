@@ -24,6 +24,8 @@ header {
 
 .menu a {
     color: #bac42e;
+    font-size: 14px;
+    text-decoration: none;
 }
 
 .menu a:hover {
