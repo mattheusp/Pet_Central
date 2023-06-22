@@ -40,11 +40,12 @@ header {
 .menu .btn-menu {
     background-color: #efff0b;
     display: inline-block;
-    padding: 6px 12px;
+    padding: 8px 16px;
     color: white;
     border-radius: 8px;
 }
 
 .menu .btn-menu:hover {
-    background-color: #bac42e;
+    background-color: #f6ff71;
+    color: #ffffff;
 }
