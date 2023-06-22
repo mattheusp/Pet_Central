@@ -44,3 +44,7 @@ header {
     color: white;
     border-radius: 8px;
 }
+
+.menu .btn-menu:hover {
+    background-color: #bac42e;
+}
