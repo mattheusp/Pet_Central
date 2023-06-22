@@ -24,7 +24,7 @@ header {
 
 .logo h2{ 
     font-weight: normal;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .menu a {
@@ -35,4 +35,8 @@ header {
 
 .menu a:hover {
     color: #efff0b
+}
+
+.menu .btn-menu {
+    background-color: #bac42e;
 }
