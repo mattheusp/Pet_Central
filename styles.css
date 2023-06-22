@@ -27,6 +27,11 @@ header {
     font-size: 22px;
 }
 
+.menu {
+    width: 80%;
+    text-align: right;
+}
+
 .menu a {
     color: #bac42e;
     font-size: 14px;
