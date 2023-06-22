@@ -9,4 +9,10 @@
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 2%;
+    display: flex;
+}
+
+header {
+    background-color: #ffffff;
+    
 }
