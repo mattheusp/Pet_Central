@@ -117,4 +117,10 @@ section.main {
 .diferencial-single h2 {
     color: #f6ff71;
     margin: 10px 0;
+    font-size: 17px;
+}
+
+.diferencial-single p{
+    color: grey;
+    font-size: 14px;
 }
