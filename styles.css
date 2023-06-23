@@ -222,10 +222,6 @@ section.sobre {
     padding: 8px 0;
 }
 
-.conteudo-sobre {
-    display: flex;
-}
-
 @media screen and (max-width:768px){
     .diferencial-single{
         width: 100%;
