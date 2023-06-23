@@ -72,9 +72,10 @@ section.main {
 
 .main__cta {
     width: 100%;
+    margin: 60px 0;
     text-align: center;
 }
 
 .main__cta h2{
-    
+    color: #dfeb3d;
 }
