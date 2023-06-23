@@ -146,7 +146,7 @@ section.main {
 
 */
 
-.diferencial-single {
+.diferenciais-single {
     border-radius: 10px;
     background-color: white;
     width: 23%;
@@ -154,18 +154,18 @@ section.main {
     padding: 50px 20px;
 }
 
-.diferencial-single i {
+.diferenciais-single i {
     color: #f6ff71;
     font-size: 23px;
 }
 
-.diferencial-single h2 {
+.diferenciais-single h2 {
     color: #f6ff71;
     margin: 10px 0;
     font-size: 17px;
 }
 
-.diferencial-single p{
+.diferenciais-single p{
     color: grey;
     font-size: 14px;
     line-height: 30px;
