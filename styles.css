@@ -20,7 +20,7 @@ header {
 }
 
 .logo { 
-    color: #dfeb3d;
+    color: #ff8700;
 }
 
 .logo h2 { 
@@ -34,7 +34,7 @@ header {
 }
 
 .menu a {
-    color: #bac42e;
+    color: #cf7a18;
     font-size: 14px;
     text-decoration: none;
     margin-right: 20px;
@@ -42,7 +42,7 @@ header {
 }
 
 .menu a:hover {
-    color: #efff0b;
+    color: #ff8700;
 }
 
 .btn-menu a {
@@ -155,7 +155,7 @@ section.main {
 }
 
 .diferenciais-single i {
-    color: #ff8700;
+    color: #f6ff71;
     font-size: 23px;
 }
 
