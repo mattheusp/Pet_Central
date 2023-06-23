@@ -63,12 +63,12 @@ header {
 }
 
 .btn-menu:hover {
-    background-color:  #3f3a3adc;
+    background-color: rgba(128, 128, 128, 0.589);
     color: #ffffff;
 }
 
 .menu .btn-menu:hover {
-    background-color: #3f3a3adc;
+    background-color: rgba(128, 128, 128, 0.589);
     color: #ffffff;
 }
 
