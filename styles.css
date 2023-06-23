@@ -64,7 +64,7 @@ Section Main
 
 section.main {
     background-color: url('');
-    min-height: 500px;
+    padding: 70px 0;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
