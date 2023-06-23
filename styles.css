@@ -213,6 +213,11 @@ section.sobre {
     color: #ff8700;
 }
 
+.section.conquistas {
+    
+}
+
+
 @media screen and (max-width:768px){
     .diferencial-single{
         width: 100%;
