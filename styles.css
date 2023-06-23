@@ -63,9 +63,9 @@ Section Main
 
 section.main {
     background-color: url('');
-    min-height: 800px;
+    min-height: 500px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
+    background-attachment: fixed;
 }
