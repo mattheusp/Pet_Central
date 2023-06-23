@@ -212,5 +212,5 @@ section.sobre {
         width: 100%;
         margin-bottom: 20px;
     }
-    .conteudo-sobre {width: 100%; margin: 20px 20px;}
+    .conteudo-sobre p{width: 100%; margin: 20px 20px;}
 }
