@@ -71,5 +71,6 @@ section.main {
 }
 
 .main__cta {
-
+    width: 100%;
+    text-align: center;
 }
