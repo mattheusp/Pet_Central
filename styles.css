@@ -193,6 +193,7 @@ section.sobre {
 
 .conteudo.sobre {
     display: flex;
+    flex-wrap: wrap;
 }
     
 .conteudo-sobre span {
