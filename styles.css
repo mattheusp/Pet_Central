@@ -151,7 +151,7 @@ section.sobre {
     display: flex;}
 
 .conteudo-sobre p {
-    
+    margin: 0 20px;
 }
     
 @media screen and (max-width:768px){
