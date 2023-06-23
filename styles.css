@@ -132,7 +132,9 @@ section.sobre {
     padding: 80px 0;
 }
 
-.chamada.sobre {}
+.chamada.sobre {
+    text-align: center;
+}
 
 @media screen and (max-width:768px){
     .diferencial-single{
