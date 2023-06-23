@@ -80,3 +80,9 @@ section.main {
     color: #dfeb3d;
     font-size: 40px;
 }
+
+.main__cta p {
+    color: grey;
+    font-size: 19px;
+    margin: 10px 0;
+}
