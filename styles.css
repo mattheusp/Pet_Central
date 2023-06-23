@@ -139,6 +139,7 @@ section.sobre {
 
 .chamada-sobre h2 {
     color: #f6ff71;
+    text-transform: uppercase;
 }
 
 .chamada.sobre p {
