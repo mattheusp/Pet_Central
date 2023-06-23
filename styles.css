@@ -128,5 +128,7 @@ section.main {
 }
 
 @media screen and (max-width:768px){
-    .diferencial-single{width: 100%;}
+    .diferencial-single{
+        width: 100%;
+    }
 }
