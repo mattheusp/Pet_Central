@@ -64,12 +64,12 @@ header {
 
 .btn-menu:hover {
     background-color: #ffffff;
-    color: #ffffff;
+    color: #ff8700;
 }
 
 .menu .btn-menu:hover {
-    background-color: #fa8e12;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #ff8700;
 }
 
 /*
