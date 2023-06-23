@@ -138,13 +138,39 @@ section.main {
     font-size: 17px;
 }
 
-.diferencial-single p{
+.diferencial-single p {
     color: grey;
     font-size: 14px;
     line-height: 30px;
 }
 
 */
+
+.diferencial-single {
+    border-radius: 10px;
+    background-color: white;
+    width: 23%;
+    margin-right: 2%;
+    padding: 50px 20px;
+}
+
+.diferencial-single i {
+    color: #f6ff71;
+    font-size: 23px;
+}
+
+.diferencial-single h2 {
+    color: #f6ff71;
+    margin: 10px 0;
+    font-size: 17px;
+}
+
+.diferencial-single p{
+    color: grey;
+    font-size: 14px;
+    line-height: 30px;
+}
+
 section.sobre {
     padding: 80px 0;
 }
