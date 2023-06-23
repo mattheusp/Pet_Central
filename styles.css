@@ -194,10 +194,6 @@ section.sobre {
 .conteudo.sobre {
     display: flex;
 }
-
-.conteudo-sobre p {
-    margin: 0 20px;
-}
     
 .conteudo-sobre span {
     margin-bottom: 10px;
@@ -214,5 +210,9 @@ section.sobre {
     .diferencial-single{
         width: 100%;
         margin-bottom: 20px;
+    }
+    .conteudo-sobre p {
+        margin: 0 20px;
+        color: #444444;
     }
 }
