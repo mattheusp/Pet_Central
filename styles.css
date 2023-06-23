@@ -45,6 +45,14 @@ header {
     color: #efff0b;
 }
 
+.btn-menu a {
+    background-color: #efff0b;
+    display: inline-block;
+    padding: 8px 16px;
+    color: white;
+    border-radius: 6px;
+}
+
 .menu .btn-menu {
     background-color: #efff0b;
     display: inline-block;
