@@ -140,6 +140,11 @@ section.sobre {
     color: #f6ff71;
 }
 
+.chamada.sobre p {
+    font-size: 14px;
+    color: 
+}
+
 @media screen and (max-width:768px){
     .diferencial-single{
         width: 100%;
