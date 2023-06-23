@@ -147,6 +147,8 @@ section.sobre {
     margin: 10px 0;
 }
 
+.conteudo.sobre {display: flex;}
+
 @media screen and (max-width:768px){
     .diferencial-single{
         width: 100%;
