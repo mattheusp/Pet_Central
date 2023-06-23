@@ -10,6 +10,7 @@
     margin: 0 auto;
     padding: 0 2%;
     display: flex;
+    flex-wrap: wrap;
 }
 
 header {
@@ -67,4 +68,8 @@ section.main {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.main__cta {
+
 }
