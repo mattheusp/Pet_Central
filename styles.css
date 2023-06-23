@@ -187,12 +187,13 @@ section.sobre {
 
 .chamada.sobre p {
     font-size: 14px;
-    color: grey;
+    color: #444;
     margin: 10px 0;
 }
 
 .conteudo.sobre {
-    display: flex;}
+    display: flex;
+}
 
 .conteudo-sobre p {
     margin: 0 20px;
