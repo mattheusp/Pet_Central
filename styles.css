@@ -126,3 +126,7 @@ section.main {
     font-size: 14px;
     line-height: 30px;
 }
+
+@media screen and (max-width:768px){
+    .diferencial-single{width: 100%;}
+}
