@@ -42,11 +42,11 @@ header {
 }
 
 .menu a:hover {
-    color: #3f3a3a;
+    color: #ffffffd2;
 }
 
 .btn-menu a {
-    background-color: #e47e0a;
+    background-color: #e47e0aee;
     display: inline-block;
     padding: 8px 16px;
     color: #e47e0a;
@@ -57,7 +57,7 @@ header {
     background-color: #3f3a3a;
     display: inline-block;
     padding: 8px 16px;
-    color: #ff8700;
+    color: #ffffff;
     border-radius: 6px;
     text-decoration: none;
 }
