@@ -191,10 +191,10 @@ section.sobre {
     margin: 10px 0;
 }
 
-.conteudo-sobre {
+ /*.conteudo-sobre {
     display: flex;
     flex-wrap: wrap;
-}
+} /*
     
  /* .conteudo-sobre p {
     width: 40%;
@@ -204,7 +204,6 @@ section.sobre {
 
 .conteudo-sobre p {
     margin: 0 20px;
-    
 }
 
 .conteudo-sobre span {
@@ -223,6 +222,9 @@ section.sobre {
     padding: 8px 0;
 }
 
+.conteudo-sobre {
+    display: flex;
+}
 
 @media screen and (max-width:768px){
     .diferencial-single{
