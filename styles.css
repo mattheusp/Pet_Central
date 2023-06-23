@@ -143,6 +143,7 @@ section.sobre {
 .chamada.sobre p {
     font-size: 14px;
     color: grey;
+    margin: 10px 0;
 }
 
 @media screen and (max-width:768px){
