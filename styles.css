@@ -59,6 +59,7 @@ header {
     padding: 8px 16px;
     color: white;
     border-radius: 6px;
+    text-decoration: none;
 }
 
 .menu .btn-menu:hover {
