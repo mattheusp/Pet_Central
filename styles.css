@@ -136,6 +136,10 @@ section.sobre {
     text-align: center;
 }
 
+.chamada-sobre {
+    color: #f6ff71;
+}
+
 @media screen and (max-width:768px){
     .diferencial-single{
         width: 100%;
