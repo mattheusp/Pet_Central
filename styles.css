@@ -213,6 +213,10 @@ section.sobre {
     margin-top: 10px;
 }
 
+.conteudo-sobre {
+    display: flex;
+}
+
 .conteudo-sobre i {
     color: #ff8700;
 }
