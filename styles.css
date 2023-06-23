@@ -37,11 +37,11 @@ header {
     font-size: 14px;
     text-decoration: none;
     margin-right: 20px;
-    transition: 1s;
+    transition: 0.4s;
 }
 
 .menu a:hover {
-    color: #efff0b
+    color: #efff0b;
 }
 
 .menu .btn-menu {
