@@ -175,7 +175,7 @@ section.sobre {
     padding: 80px 0;
 }
 
-.chamada.sobre {
+.chamada-sobre {
     width: 100%;
     text-align: center;
 }
@@ -191,7 +191,7 @@ section.sobre {
     margin: 10px 0;
 }
 
-.conteudo.sobre {
+.conteudo-sobre {
     display: flex;
     flex-wrap: wrap;
 }
