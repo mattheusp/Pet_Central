@@ -62,6 +62,11 @@ header {
     text-decoration: none;
 }
 
+.btn-menu:hover {
+    background-color: #f6ff71;
+    color: #ffffff;
+}
+
 .menu .btn-menu:hover {
     background-color: #f6ff71;
     color: #ffffff;
