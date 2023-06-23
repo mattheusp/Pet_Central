@@ -54,7 +54,7 @@ header {
 }
 
 .btn-menu {
-    background-color: #3f3a3aef;
+    background-color: #3f3a3a;
     display: inline-block;
     padding: 8px 16px;
     color: #ff8700;
@@ -63,13 +63,13 @@ header {
 }
 
 .btn-menu:hover {
-    background-color: #ffffff;
+    background-color:  #3f3a3a;
     color: #e47e0a;
 }
 
 .menu .btn-menu:hover {
-    background-color: #ffffff;
-    color: #e47e0a;
+    background-color: #3f3a3adc;
+    color: #ffffff;
 }
 
 /*
