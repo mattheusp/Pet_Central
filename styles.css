@@ -185,9 +185,9 @@ section.sobre {
     text-transform: uppercase;
 }
 
-.chamada.sobre p {
+.chamada-sobre p {
     font-size: 14px;
-    color: #444;
+    color: gray;
     margin: 10px 0;
 }
 
