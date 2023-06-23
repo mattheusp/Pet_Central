@@ -196,10 +196,15 @@ section.sobre {
     flex-wrap: wrap;
 }
     
-.conteudo-sobre p {
+ /* .conteudo-sobre p {
     width: 40%;
     margin-right: 2%;
     color: #444444;
+} */
+
+.conteudo-sobre p {
+    margin: 0 20px;
+    
 }
 
 .conteudo-sobre span {
