@@ -62,5 +62,7 @@ Section Main
 */
 
 section.main {
-    background-color: url('') ;
+    background-color: url('');
+    min-height: 800px;
+    background-position: center;
 }
