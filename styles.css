@@ -256,12 +256,10 @@ section.sobre {
 
 .menu-items.show {
     opacity: 1;
-    display: block;
 }
 
 .menu-items.hidde {
     opacity: 0;
-    display: none;
 }
 
 .menu-items a {
