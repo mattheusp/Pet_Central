@@ -252,6 +252,10 @@ section.sobre {
     display: none;
 }
 
+.menu-items.show {
+    display: block;
+}
+
 .menu-items a {
     display: block;
     text-decoration: none;
