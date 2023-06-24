@@ -23,16 +23,22 @@ header {
     border-bottom: 1px solid #e47e0aee;
 }
 
-.logo { 
-    color: #FFFFFF;
+.logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
-.logo h2 { 
+/* .logo { 
+    color: #FFFFFF;
+} */
+
+/* .logo h2 { 
     font-weight: bolder;
     font-size: 22px;
-}
+} */
 
-.menu{
+.menu {
     width: 80%;
     text-align: right;
 }
