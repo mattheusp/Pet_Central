@@ -121,7 +121,18 @@
     </section>
 
     <script src="https://kit.fontawesome.com/61e789ab4c.js" crossorigin="anonymous"></script>
-    <script src="/scripts.js"></script> <!-- Meu arquivo JavaScript -->
+    <!-- <script src="/scripts.js"></script> -->
+    <script>
+var el = document.querySelector('fa-solid fa-bars menu-mobile-icon');
+
+el.addEventListener('click',()=>{
+    // Queremos mostrar o menu.
+    var menuItems = document.querySelector('.menu-items');
+    menuItems.classList.add('show');
+});
+
+    </script>
+
 
 </body>
 </html>
