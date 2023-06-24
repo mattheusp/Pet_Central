@@ -283,6 +283,16 @@ section.sobre-empreendedor {
     padding: 0 50px;
 }
 
+.sobre-empreendedor-content h2 {
+    color: #ff8800ea;
+    margin-bottom: 20px;
+}
+
+.sobre-empreendedor-content p {
+    color: #444;
+    font-size: 14px;
+}
+
 @media screen and (max-width:768px){
     .diferencial-single {
         width: 100%;
