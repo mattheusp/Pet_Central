@@ -290,6 +290,7 @@ section.sobre-empreendedor {
 
 .conquistas-single img {
     max-width: 100%;
+    transform: scale(1.1);
 }
 
 .conquista-single img {
@@ -303,6 +304,7 @@ section.sobre-empreendedor {
 }
 
 .conquista-single img:hover {
+    transform: scale(2);
     filter: grayscale(0);
 }
 
