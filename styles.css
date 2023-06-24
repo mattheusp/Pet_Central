@@ -229,6 +229,7 @@ section.sobre {
 .conquista-single {
     width: 22%;
     margin-right: 3%;
+    text-align: center;
 }
 
 @media screen and (max-width:768px){
