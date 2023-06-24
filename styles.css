@@ -247,7 +247,8 @@ section.sobre {
     top: 0;
     width: 100%;
     text-align: center;
-    background: white;
+    background-color: white;
+    border-bottom: 2px solid #e47e0aee;
 }
 
 .menu-items a {
