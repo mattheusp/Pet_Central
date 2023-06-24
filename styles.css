@@ -295,7 +295,10 @@ section.sobre-empreendedor {
 .conquista-single img {
     max-width: 50%;
     height: auto;
-    
+}
+
+.conquista-single img {
+    filter: grayscale(100%);
 }
 
 .sobre-empreendedor-content p {
