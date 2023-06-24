@@ -272,8 +272,10 @@ section.sobre {
     width: 50%;    
 }
 
-.sobre-empreendedor-img {
+.sobre-empreendedor-img img{max-width: 100%;}
 
+.sobre-empreendedor-content {
+    width: 50%;
 }
 
 @media screen and (max-width:768px){
