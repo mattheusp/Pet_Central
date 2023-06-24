@@ -13,6 +13,11 @@
     flex-wrap: wrap;
 }
 
+.menu-mobile {
+    displaY: none;
+    
+}
+
 header {
     background-color: #ff8700;
     padding: 20px 0;
