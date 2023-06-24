@@ -251,8 +251,12 @@ section.sobre {
         display: none;
     }
 
+    .logo {
+
+    }
+    
     .menu-mobile {
-        width: 80%;
+        width: 90%;
         text-align: right;
         display: block;
     }
