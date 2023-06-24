@@ -210,9 +210,9 @@ section.sobre {
     margin: 0 20px;
 }  */
 
-.chamada-sobre p {
+.conteudo-sobre p {
     font-size: 14px;
-    color: gray;
+    color: rgb(82, 82, 82);
     margin: 10px 0;
 }
 
