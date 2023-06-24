@@ -247,7 +247,9 @@ section.sobre {
         margin-bottom: 20px;
     }
 
-    .
+    .menu {
+        display: none;
+    }
 
     .menu-mobile {
         display: block;
