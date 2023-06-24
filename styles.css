@@ -32,12 +32,12 @@ header {
     font-size: 22px;
 }
 
-.menu-desktop{
+.menu{
     width: 80%;
     text-align: right;
 }
 
-.menu-desktop a {
+.menu a {
     color: #ffffff;
     font-size: 14px;
     text-decoration: none;
@@ -45,7 +45,7 @@ header {
     /* transition: 0.4s; */
 }
 
-.menu-desktop a:hover {
+.menu a:hover {
     color: #ffffffd2;
 }
 
