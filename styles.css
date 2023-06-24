@@ -288,6 +288,11 @@ section.sobre-empreendedor {
     margin-bottom: 20px;
 }
 
+.conquistas-single {
+    max-width: 100%;
+    
+}
+
 .sobre-empreendedor-content p {
     color: #444;
     font-size: 14px;
