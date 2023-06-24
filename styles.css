@@ -223,14 +223,16 @@ section.sobre {
 
 .section.conquistas {
     background-color: #f8fbfe;
-    padding: 8px 0;
+    padding: 20px 0;
 }
 
 .conquista-single {
     width: 22%;
     margin-right: 3%;
     text-align: center;
+    color:#ff8800ea;
 }
+
 
 @media screen and (max-width:768px){
     .diferencial-single{
