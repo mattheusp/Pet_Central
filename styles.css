@@ -292,6 +292,11 @@ section.sobre-empreendedor {
     max-width: 100%;
 }
 
+.conquista-single img {
+    max-width: 50%;
+    height: auto;
+}
+
 .sobre-empreendedor-content p {
     color: #444;
     font-size: 14px;
