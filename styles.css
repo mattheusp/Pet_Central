@@ -249,14 +249,18 @@ section.sobre {
     text-align: center;
     background-color: white;
     border-bottom: 2px solid #e47e0aee;
-    display: none;
+    display: block;
+    opacity: 0;
+    transition: 1s;
 }
 
 .menu-items.show {
+    opacity: 1;
     display: block;
 }
 
 .menu-items.hidde {
+    opacity: 0;
     display: none;
 }
 
