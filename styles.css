@@ -241,6 +241,14 @@ section.sobre {
     font-size: 30px;
 }
 
+.menu-items {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    
+}
+
 @media screen and (max-width:768px){
     .diferencial-single {
         width: 100%;
