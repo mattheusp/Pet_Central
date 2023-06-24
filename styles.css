@@ -15,7 +15,6 @@
 
 .menu-mobile {
     displaY: none;
-    
 }
 
 header {
@@ -247,5 +246,12 @@ section.sobre {
         width: 100%;
         margin-bottom: 20px;
     }
+
+    .
+
+    .menu-mobile {
+        display: block;
+    }
+
     .conteudo-sobre p{width: 100%; margin: 20px 20px;}
 }
