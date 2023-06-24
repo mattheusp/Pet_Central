@@ -249,6 +249,7 @@ section.sobre {
     text-align: center;
     background-color: white;
     border-bottom: 2px solid #e47e0aee;
+    display: none;
 }
 
 .menu-items a {
