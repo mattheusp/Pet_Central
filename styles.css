@@ -252,11 +252,11 @@ section.sobre {
     }
 
     .logo {
-
+        width: 20%;
     }
-    
+
     .menu-mobile {
-        width: 90%;
+        width: 80%;
         text-align: right;
         display: block;
     }
