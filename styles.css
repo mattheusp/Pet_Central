@@ -304,7 +304,7 @@ section.sobre-empreendedor {
 }
 
 .conquista-single img:hover {
-    transform: scale(2);
+    transform: scale(1.4);
     filter: grayscale(0);
 }
 
