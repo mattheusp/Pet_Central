@@ -269,10 +269,10 @@ section.sobre {
 }
 
 .sobre-empreendedor-img {
-    width: 50%;    
+    width: 35%;    
 }
 
-.sobre-empreendedor-img img{max-width: 100%;}
+.sobre-empreendedor-img img{max-width: 50%;}
 
 .sobre-empreendedor-content {
     width: 50%;
