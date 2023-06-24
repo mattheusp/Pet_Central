@@ -206,8 +206,14 @@ section.sobre {
     color: #444444;
 } */
 
-.conteudo-sobre p {
+/*.conteudo-sobre p {
     margin: 0 20px;
+}  */
+
+.chamada-sobre p {
+    font-size: 14px;
+    color: gray;
+    margin: 10px 0;
 }
 
 .conteudo-sobre span {
