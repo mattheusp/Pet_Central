@@ -299,6 +299,11 @@ section.sobre-empreendedor {
 
 .conquista-single img {
     filter: grayscale(100%);
+    transition: 0.4s;
+}
+
+.conquista-single img:hover {
+    filter: grayscale(0);
 }
 
 .sobre-empreendedor-content p {
