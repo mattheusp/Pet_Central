@@ -287,12 +287,11 @@ section.sobre-empreendedor {
     margin: 0 auto;
   }
 
-
 .sobre-empreendedor-img img{max-width: 50%;}
 
 .sobre-empreendedor-content {
-    width: 50%;
-    padding: 0 50px;
+    max-width: 80%;
+    margin: 0 auto;
 }
 
 .sobre-empreendedor-content h2 {
