@@ -252,6 +252,7 @@ section.sobre {
     }
 
     .menu-mobile {
+        width: 80%;
         text-align: right;
         display: block;
     }
