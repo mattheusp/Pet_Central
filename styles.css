@@ -247,7 +247,15 @@ section.sobre {
     top: 0;
     width: 100%;
     text-align: center;
+    background: white;
 }
+
+.menu-items a {
+    display: block;
+    text-decoration: none;
+    color: #ff8700;
+}
+
 
 @media screen and (max-width:768px){
     .diferencial-single {
