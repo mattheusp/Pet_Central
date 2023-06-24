@@ -281,8 +281,12 @@ section.sobre-empreendedor {
 }
 
 .sobre-empreendedor-img {
-    width: 35%;    
-}
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
 
 .sobre-empreendedor-img img{max-width: 50%;}
 
