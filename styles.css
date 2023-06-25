@@ -264,7 +264,7 @@ section.sobre {
     border-bottom: 2px solid #e47e0aee;
     display: block;
     opacity: 0;
-    transition: 1s;
+    transition: 0.3s;
 }
 
 .menu-items.show {
