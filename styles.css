@@ -314,6 +314,13 @@ section.sobre-empreendedor {
     height: auto;
 }
 
+section.depoimentos {
+    padding: 40px 0;
+}
+
+
+
+
 .conquista-single img {
     filter: grayscale(100%);
     transition: 0.4s;
