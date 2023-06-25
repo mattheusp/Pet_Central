@@ -388,6 +388,12 @@ section.depoimentos .depoimentos-chamada {
     padding: 0 8px;
 }
 
+.carrousel-single span {
+    color: #ccc;
+    
+}
+
+
 @media screen and (max-width:768px){
     .diferencial-single {
         width: 100%;
