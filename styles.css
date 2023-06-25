@@ -364,12 +364,13 @@ section.depoimentos .depoimentos-chamada {
 .carrousel-single-box {
     padding: 20px;
     background-color: #f3f9fd;
+    border-radius: 10px;
 }
 
 .carrousel-single-box p {
     font-style: italic;
+    color: #4b4b4b;
     font-size: 16px;
-    border-radius: 10px;
 }
 
 .carrousel-single img {
