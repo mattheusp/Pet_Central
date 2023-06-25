@@ -322,9 +322,12 @@ section.depoimentos .depoimentos-chamada {
     text-align: center;
 }
 
-section.depoimentos .depoimentos {
 
+.depoimentos-chamada h2 {
+    color: #ff8800ea;
 }
+
+
 
 
 .conquista-single img {
