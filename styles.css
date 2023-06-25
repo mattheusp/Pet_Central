@@ -316,6 +316,7 @@ section.sobre-empreendedor {
 
 section.depoimentos {
     padding: 40px 0;
+    background-color: #ff8700;
 }
 
 section.depoimentos .depoimentos-chamada {
@@ -324,7 +325,7 @@ section.depoimentos .depoimentos-chamada {
 
 
 .depoimentos-chamada h2 {
-    color: #ff8800ea;
+    color: #ffffffea;
     text-transform: uppercase;
 }
 
