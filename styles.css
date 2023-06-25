@@ -374,9 +374,10 @@ section.depoimentos .depoimentos-chamada {
 }
 
 .carrousel-single img {
-    width: 50px;
-    height: 50px;
-    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
 }
 
 .carrousel-single-box i {
