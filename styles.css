@@ -327,6 +327,10 @@ section.depoimentos .depoimentos-chamada {
     color: #ff8800ea;
 }
 
+.depoimentos-chamada p {
+    color: #ccc;
+    margin: 10px 0;
+}
 
 
 
