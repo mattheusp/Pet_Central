@@ -352,6 +352,10 @@ section.depoimentos .depoimentos-chamada {
     margin-bottom: 14px;
 }
 
+.carrousel {
+    display: flex;
+}
+
 @media screen and (max-width:768px){
     .diferencial-single {
         width: 100%;
