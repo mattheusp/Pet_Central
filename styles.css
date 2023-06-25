@@ -325,6 +325,7 @@ section.depoimentos .depoimentos-chamada {
 
 .depoimentos-chamada h2 {
     color: #ff8800ea;
+    text-transform: uppercase;
 }
 
 .depoimentos-chamada p {
