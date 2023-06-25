@@ -377,6 +377,10 @@ section.depoimentos .depoimentos-chamada {
     max-width: 100%;
 }
 
+.carrousel-single-box i {
+    color: #c9e5f5;
+}
+
 @media screen and (max-width:768px){
     .diferencial-single {
         width: 100%;
