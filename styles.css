@@ -366,6 +366,12 @@ section.depoimentos .depoimentos-chamada {
     background-color: #f3f9fd;
 }
 
+.carrousel-single-box p {
+    font-style: italic;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
 .carrousel-single img {
     max-width: 100%;
 }
