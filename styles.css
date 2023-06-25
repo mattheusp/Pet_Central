@@ -359,6 +359,7 @@ section.depoimentos .depoimentos-chamada {
 .carrousel-single {
     width: 31%;
     margin-right: 2%;
+    text-align: center;
 }
 
 .carrousel-single-box {
@@ -374,9 +375,9 @@ section.depoimentos .depoimentos-chamada {
 }
 
 .carrousel-single img {
-    width: 70px;
-    height: 70px;
-    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 90px;
 }
 
 .carrousel-single-box i {
