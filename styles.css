@@ -380,6 +380,7 @@ section.depoimentos .depoimentos-chamada {
 .carrousel-single-box i {
     color: #c9e5f5;
     font-size: 25px;
+    padding: 0 8px;
 }
 
 @media screen and (max-width:768px){
