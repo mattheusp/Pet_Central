@@ -362,7 +362,8 @@ section.depoimentos .depoimentos-chamada {
 }
 
 .carrousel-single-box {
-    
+    padding: 10px;
+    background-color: #f3f9fd;
 }
 
 .carrousel-single img {
