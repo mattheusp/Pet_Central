@@ -361,10 +361,13 @@ section.depoimentos .depoimentos-chamada {
     margin-right: 2%;
 }
 
+.carrousel-single-box {
+    
+}
+
 .carrousel-single img {
     max-width: 100%;
 }
-
 
 @media screen and (max-width:768px){
     .diferencial-single {
