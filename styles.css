@@ -318,7 +318,13 @@ section.depoimentos {
     padding: 40px 0;
 }
 
+section.depoimentos .depoimentos-chamada {
+    text-align: center;
+}
 
+section.depoimentos .depoimentos {
+
+}
 
 
 .conquista-single img {
