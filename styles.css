@@ -378,6 +378,8 @@ section.depoimentos .depoimentos-chamada {
     width: 80px;
     height: 80px;
     border-radius: 90px;
+    margin: 10px 0;
+    display: inline;
 }
 
 .carrousel-single-box i {
